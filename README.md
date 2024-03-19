@@ -1,6 +1,5 @@
 # Amazon Clone Website
 
-## Description
 This project is an Amazon clone website that replicates some of the features and functionalities of the original Amazon website. It includes sections for navigation, product listings, user account management, and more.
 
 ## Table of Contents
